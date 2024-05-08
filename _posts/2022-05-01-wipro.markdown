@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Wipro Consumer Care Pvt. Ltd | Senior Manufacturing Engineer"
+date:   2022-05-01 22:21:59 +00:00
+image: /images/Wipro_Logo.svg
+categories: projects
+---
+Led greenfield projects for a 230 tonne per day soap production facility, managing project planning and execution. Designed a piping network for supply of chilled water to improve centralized chiller system performance by 18%. Automated soap packaging lines for reduction of rejections, resulting in a 5% increase in total production capacity.

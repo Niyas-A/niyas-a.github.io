@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Prowiz Infotech LLP | Software Integration Engineer"
+date:   2023-10-01 22:21:59 +00:00
+image: /images/ProWiz-Logo.png
+categories: projects
+---
+Implemented a real-time image processing pipeline making production line 12% more efficient and control quality. Integrated mobileSAM, byteTrack and PaddleOCR algorithms for segmentation, tracking and recognition of products.

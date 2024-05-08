@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Autonomous Campus Bicycle | Research Assistant in SENAI Lab"
+date:   2023-08-01 22:21:59 +00:00
+image: /images/AutoBicycle.jpg
+video: https://youtube.com/shorts/kfJ1CMNr0H0?feature=share
+slides: /pdfs/SBAB_Presentation.pdf
+code: https://github.com/Niyas-A/SBAB
+categories: research
+---
+Developed an autonomous bicycle prototype by integrating hardware systems and software stack for navigation. Applied ROS1-based path planning and obstacle avoidance, with visual odometry and mapping for precise localization. Demonstrated GPS waypoint navigation of bicycle, avoiding obstacles and adhering to designated bicycle pathways.

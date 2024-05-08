@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Visual SLAM and path planning for mobile robot | CSE276A UC San Diego"
+date:   2023-12-01 22:21:59 +00:00
+image: /images/CSE276A_task3.PNG
+video: https://youtu.be/DrnhD0RBRmo
+slides: /pdfs/CSE276A_SLAM.pdf
+categories: research
+---
+Developed Visual-based Simultaneous Localization and Mapping using April tag detection for environmental mapping. Implemented heuristic-based path planning algorithms, prioritizing either safety or optimizing distance for traversal.
