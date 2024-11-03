@@ -5,4 +5,4 @@ date:   2023-10-01 22:21:59 +00:00
 image: /images/Dexcom-logo.png
 categories: projects
 ---
-Developed an AI-powered screenshot comparison tool for scalable locale and UI validation testing. Integrated the tool into the nightly pipeline with results reported to Slack via WebHooks.Enhanced testing coverage of system requirements, improving overall validation and quality assurance processes.
+I developed an AI-powered screenshot comparison tool for scalable locale and UI validation, featuring real-time result dashboards. The tool was integrated into CI/CD pipelines using GitHub Actions and connected with GCP, Jira, and Slack for streamlined reporting. Additionally, I created test plans and cases to generate UI screenshots for glucose level alerts in a native iOS app using Swift. This implementation improved testing coverage of system requirements, significantly enhancing validation accuracy and overall product quality.
